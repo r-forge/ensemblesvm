@@ -1,0 +1,9 @@
+Package: randomSubspace
+Type: Package
+Title: Random Subspace
+Version: 0.1
+Author: Xiaoye Li, Steve Weston
+Maintainer: Steve Weston <stephen.b.weston@gmail.com>
+Description: Random Subspace
+Depends: R (>= 2.5.0), foreach(>= 1.3.0), iterators(>= 1.0.0), e1071, quadprog
+License: GPL-2

@@ -1,0 +1,4 @@
+export(randomSubspace, predict.randomSubspace, class.err, print.randomSubspace)
+S3method(predict, randomSubspace)
+S3method(print, randomSubspace)
+import(foreach)
